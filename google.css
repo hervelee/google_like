@@ -25,7 +25,7 @@ header div{
   padding: 10px 20px 10px 20px;
   border-radius: 3px; 
   font-weight: bold;
-  color: #fff;
+  color: white;
 }
 .one{
 	display: flex;
@@ -42,7 +42,7 @@ header div{
 	flex-direction: column;
 	align-items: center;
 	margin-top:200px;
-	margin-bottom: 200px; 
+	margin-bottom: 400px; 
 }
 
 footer{
@@ -52,7 +52,7 @@ footer{
 	border-top: 1.5px solid;
 	border-color: #E4E4E4;
 	line-height: 40px;
-	justify-content: flex-end;
+	bottom: 0;
 }
 
 .stage{
